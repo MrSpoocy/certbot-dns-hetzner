@@ -1,0 +1,5 @@
+include LICENSE.txt
+include README.rst
+include certbot_dns_hetzner/py.typed
+global-exclude __pycache__
+global-exclude *.py[cod]
