@@ -1,10 +1,11 @@
-import os
+#import os
+from certbot.compat import os
 import sys
 
 from setuptools import find_packages
 from setuptools import setup
 
-version = '0.9.0.dev0'
+version = '1.4.0'
 
 install_requires = [
     'dns-lexicon>=3.3.25',
