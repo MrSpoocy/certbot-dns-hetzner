@@ -1,1 +1,0 @@
-Hetzner DNS Console plugin for Certbot
