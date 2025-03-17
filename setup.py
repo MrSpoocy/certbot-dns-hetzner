@@ -5,7 +5,7 @@ import sys
 from setuptools import find_packages
 from setuptools import setup
 
-version = '1.4.0'
+version = '3.3.0'
 
 install_requires = [
     'dns-lexicon>=3.3.25',
@@ -52,6 +52,8 @@ setup(
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
         'Programming Language :: Python :: 3.10',
+        'Programming Language :: Python :: 3.11',
+        'Programming Language :: Python :: 3.12',
         'Topic :: Internet :: WWW/HTTP',
         'Topic :: Security',
         'Topic :: System :: Installation/Setup',
